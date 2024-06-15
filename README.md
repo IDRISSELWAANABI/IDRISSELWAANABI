@@ -1,7 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Idriss EL WAANABI</h1>
 <h3 align="center">Data science / AI student at INPT</h3>
-<p align="right"> <img src="https://images.app.goo.gl/nq4EcPMUsnj5UqNL8" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrisselwaanabi&label=Profile%20views&color=0e75b6&style=flat" alt="idrisselwaanabi" /> </p>
 
