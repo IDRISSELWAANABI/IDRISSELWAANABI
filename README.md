@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idrisselwaanabi&label=Profile%20views&color=0e75b6&style=flat" alt="idrisselwaanabi" /> </p>
 
-- 🌱 I’m currently learning **Generative AI , LLMs**
+- 🌱 I’m currently learning **Generative AI , LLMs and Reinforcement learning**
 
 - 📫 How to reach me **drisselwaanabi02@gmail.com**
 
